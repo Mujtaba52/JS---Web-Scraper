@@ -4789,3 +4789,9 @@ https://www.hcidirectory.gov.sg/hcidirectory/clinic.do?task=view&toBack=search&p
 https://www.hcidirectory.gov.sg/hcidirectory/clinic.do?task=view&toBack=search&pkId=45713
 https://www.hcidirectory.gov.sg/hcidirectory/clinic.do?task=view&toBack=search&pkId=45458
 https://www.hcidirectory.gov.sg/hcidirectory/clinic.do?task=view&toBack=search&pkId=46095
+https://www.hcidirectory.gov.sg/hcidirectory/clinic.do?task=view&toBack=search&pkId=47450
+https://www.hcidirectory.gov.sg/hcidirectory/clinic.do?task=view&toBack=search&pkId=34173
+https://www.hcidirectory.gov.sg/hcidirectory/clinic.do?task=view&toBack=search&pkId=44777
+https://www.hcidirectory.gov.sg/hcidirectory/clinic.do?task=view&toBack=search&pkId=48205
+https://www.hcidirectory.gov.sg/hcidirectory/clinic.do?task=view&toBack=search&pkId=47739
+https://www.hcidirectory.gov.sg/hcidirectory/clinic.do?task=view&toBack=search&pkId=34175
