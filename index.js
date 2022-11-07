@@ -21,9 +21,10 @@ async function main() {
     By.id('search_btn')).click()
 
   await driver.wait(until.elementIsVisible(driver.findElement(By.xpath("//div[contains(text(),'Showing 1 - 10')]"))), 10000)
+  let allClinics
   while(driver.findElement(By.xpath(
       "//a[@class='next']/img")).isDisplayed){
-    const allClinics = await driver.findElements(By.xpath("//div[@class='result_container']/div/span[@class='name']/a"));
+    allClinics = await driver.findElements(By.xpath("//div[@class='result_container']/div/span[@class='name']/a"));
 
     allClinics.forEach(async (clinic) => {
       const clinicLink = await clinic.getAttribute("href");
