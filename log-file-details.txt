@@ -1,0 +1,200 @@
+{
+  url: 'https://www.hcidirectory.gov.sg/hcidirectory/clinic.do?task=view&toBack=search&pkId=47807',
+  title: 'ARTISTIQUE AESTHETIC CLINIC',
+  location_text: '1 MARITIME SQUARE\nHARBOURFRONT CENTRE\n#02-108 SINGAPORE 099253',
+  location_url: 'http://maps.google.com/maps?f=q&source=s_q&hl=en&q=1.26405731000006,103.820244325',
+  phone: '65183169',
+  fax: '67581374',
+  'Licensee Name': 'ARTISTIQUE MEDICAL CLINIC (HBF) PTE. LTD.',
+  'Licence Period': '23/08/2021to 22/08/2023 [ 2 Years ( 2A ) ]',
+  'HCI Code': '21M0313',
+  UEN: '202104727C',
+  info: 'Tel: 65183169 Licensee Name: ARTISTIQUE MEDICAL CLINIC (HBF) PTE. LTD.\n' +
+    'Fax: 67581374 Licence Period: 23/08/2021to 22/08/2023 [ 2 Years ( 2A ) ]\n' +
+    '  HCI Code: 21M0313\n' +
+    '  UEN: 202104727C',
+  doctor_name: 'Chu Jiawan',
+  qualifications: 'MBBS (National University of Singapore, Singapore) 2006',
+  speciality: 'MBBS (National University of Singapore, Singapore) 2006',
+  doctor_info: 'Name Qualifications Registered Specialty / Family Physician\n' +
+    'Chu Jiawan\n' +
+    'MBBS (National University of Singapore, Singapore) 2006\n' +
+    'Family Physician',
+  'detail services': 'General Medical'
+}
+{
+  url: 'https://www.hcidirectory.gov.sg/hcidirectory/clinic.do?task=view&toBack=search&pkId=46758',
+  title: 'DA CLINIC @ BISHAN',
+  location_text: 'BLK 501 BISHAN STREET 11\n#01-374 SINGAPORE 570501',
+  location_url: 'http://maps.google.com/maps?f=q&source=s_q&hl=en&q=1.34841689800004,103.849077333',
+  phone: '31650140',
+  fax: '69541012',
+  'Licensee Name': 'BISHAN HEALTHCARE PTE. LTD.',
+  'Licence Period': '26/12/2020to 25/12/2025 [ 5 Years ]',
+  'HCI Code': '18M0380',
+  UEN: '201833754E',
+  info: 'Tel: 31650140 Licensee Name: BISHAN HEALTHCARE PTE. LTD.\n' +
+    'Fax:  69541012 Licence Period: 26/12/2020to 25/12/2025 [ 5 Years ]\n' +
+    '  HCI Code: 18M0380\n' +
+    '  UEN: 201833754E',
+  doctor_name: 'Lim Si Yuan Daniel',
+  qualifications: 'MBBS (National University of Singapore, Singapore) 2017',
+  speciality: 'MBBS (National University of Singapore, Singapore) 2017',
+  doctor_info: 'Name Qualifications Registered Specialty / Family Physician\n' +
+    'Lim Si Yuan Daniel\n' +
+    'MBBS (National University of Singapore, Singapore) 2017',
+  'detail services': 'General Medical\nYellow Fever Vaccination'
+}
+{
+  url: 'https://www.hcidirectory.gov.sg/hcidirectory/clinic.do?task=view&toBack=search&pkId=47364',
+  title: 'ICON CANCER CENTRE GLENEAGLES',
+  location_text: '6 NAPIER ROAD\nGLENEAGLES MEDICAL CENTRE\n#05-15 SINGAPORE 258499',
+  location_url: 'http://maps.google.com/maps?f=q&source=s_q&hl=en&q=1.30706156400004,103.820124457',
+  phone: '64713373',
+  fax: '64711062',
+  'Licensee Name': 'ICON SOC PTE. LTD.',
+  'Licence Period': '05/10/2022to 04/10/2027 [ 5 Years ]',
+  'HCI Code': '20M0284',
+  UEN: '201615538D',
+  info: 'Tel: 64713373 Licensee Name: ICON SOC PTE. LTD.\n' +
+    'Fax: 64711062 Licence Period: 05/10/2022to 04/10/2027 [ 5 Years ]\n' +
+    '  HCI Code: 20M0284\n' +
+    '  UEN: 201615538D',
+  doctor_name: 'Wong Kit Yee Karmen',
+  qualifications: 'MBBS (University of Adelaide, Australia) 1986',
+  speciality: 'MBBS (University of Adelaide, Australia) 1986',
+  doctor_info: 'Name Qualifications Registered Specialty / Family Physician\n' +
+    'Wong Kit Yee Karmen\n' +
+    'MBBS (University of Adelaide, Australia) 1986\n' +
+    'MRCP (Int Med) (Royal College of Physicians, United Kingdom) 1990\n' +
+    'M Med (Int Med) (National University of Singapore, Singapore) 1990\n' +
+    'Medical Oncology',
+  'detail services': 'Specialist Medical\n' +
+    'Haematology\n' +
+    'Medical Oncology\n' +
+    'Palliative Medicine\n' +
+    'Radiation Oncology'
+}
+{
+  url: 'https://www.hcidirectory.gov.sg/hcidirectory/clinic.do?task=view&toBack=search&pkId=42460',
+  title: 'LEROY MCCULLY AND ASSOCIATES PTE LTD',
+  location_text: '38 IRRAWADDY ROAD\n' +
+    'MOUNT ELIZABETH NOVENA SPECIALIST CENTRE\n' +
+    '#11-43/44/45/46 SINGAPORE 329563',
+  location_url: 'http://maps.google.com/maps?f=q&source=s_q&hl=en&q=1.32213682800005,103.844361217',
+  phone: '66940100',
+  fax: '65700580',
+  'Licensee Name': 'LEROY MCCULLY',
+  'Licence Period': '24/09/2021to 23/09/2023 [ 2 Years ( 2A ) ]',
+  'HCI Code': '12C0197',
+  UEN: 'T12CD0006A',
+  info: 'Tel: 66940100 Licensee Name: LEROY MCCULLY\n' +
+    'Fax: 65700580 Licence Period: 24/09/2021to 23/09/2023 [ 2 Years ( 2A ) ]\n' +
+    '  HCI Code: 12C0197\n' +
+    '  UEN: T12CD0006A',
+  doctor_name: 'leroy mccully',
+  qualifications: 'BDS (National University of Singapore, Singapore) 1994',
+  speciality: 'BDS (National University of Singapore, Singapore) 1994',
+  doctor_info: 'Name Qualifications Registered Specialty / Family Physician\n' +
+    'leroy mccully\n' +
+    'BDS (National University of Singapore, Singapore) 1994\n' +
+    'MSc (University of London, United Kingdom) 1997\n' +
+    'Endodontics\n' +
+    'Endodontics',
+  'detail services': 'Specialist Dental\nEndodontics'
+}
+{
+  url: 'https://www.hcidirectory.gov.sg/hcidirectory/clinic.do?task=view&toBack=search&pkId=45738',
+  title: 'PACIFIC ADVANCE RENAL CARE (CHOA CHU KANG)',
+  location_text: 'BLK 488B CHOA CHU KANG AVENUE 5\nSUNSHINE GARDENS\n#01-145 SINGAPORE 682488',
+  location_url: 'http://maps.google.com/maps?f=q&source=s_q&hl=en&q=1.37697398100005,103.739293157',
+  phone: '68930617',
+  fax: '67354598',
+  'Licensee Name': 'PACIFIC ADVANCE RENAL CARE PTE. LTD.',
+  'Licence Period': '08/02/2021to 07/02/2023 [ 2 Years ( 2A ) ]',
+  'HCI Code': '17M0021',
+  UEN: '201329439M',
+  info: 'Tel: 68930617 Licensee Name: PACIFIC ADVANCE RENAL CARE PTE. LTD.\n' +
+    'Fax: 67354598 Licence Period: 08/02/2021to 07/02/2023 [ 2 Years ( 2A ) ]\n' +
+    '  HCI Code: 17M0021\n' +
+    '  UEN: 201329439M',
+  doctor_name: 'Tan Choon Hian Roger',
+  qualifications: 'MBBS (National University of Singapore, Singapore) 1997',
+  speciality: 'MBBS (National University of Singapore, Singapore) 1997',
+  doctor_info: 'Name Qualifications Registered Specialty / Family Physician\n' +
+    'Tan Choon Hian Roger\n' +
+    'MBBS (National University of Singapore, Singapore) 1997\n' +
+    'MRCP (UK) (Royal College of Physicians, United Kingdom) 2002\n' +
+    'Renal Medicine',
+  'detail services': 'Renal Dialysis'
+}
+{
+  url: 'https://www.hcidirectory.gov.sg/hcidirectory/clinic.do?task=view&toBack=search&pkId=48062',
+  title: 'SHANG DENTAL (KALLANG)',
+  location_text: 'BLK 71 KALLANG BAHRU\n#01-531F SINGAPORE 330071',
+  location_url: 'http://maps.google.com/maps?f=q&source=s_q&hl=en&q=1.32099294300002,103.870389995',
+  phone: '64433443',
+  fax: '64433443',
+  'Licensee Name': 'THW SHANG PTE. LTD.',
+  'Licence Period': '25/03/2022to 24/03/2024 [ 2 Years ( 2A ) ]',
+  'HCI Code': '22D0101',
+  UEN: '202203039C',
+  info: 'Tel: 64433443 Licensee Name: THW SHANG PTE. LTD.\n' +
+    'Fax: 64433443 Licence Period: 25/03/2022to 24/03/2024 [ 2 Years ( 2A ) ]\n' +
+    '  HCI Code: 22D0101\n' +
+    '  UEN: 202203039C',
+  doctor_name: 'TERENCE THET HTUT WIN',
+  qualifications: 'BDS (National University of Singapore, Singapore) 2016',
+  speciality: 'BDS (National University of Singapore, Singapore) 2016',
+  doctor_info: 'Name Qualifications Registered Specialty / Family Physician\n' +
+    'TERENCE THET HTUT WIN\n' +
+    'BDS (National University of Singapore, Singapore) 2016',
+  'detail services': 'General Dental'
+}
+{
+  url: 'https://www.hcidirectory.gov.sg/hcidirectory/clinic.do?task=view&toBack=search&pkId=25070',
+  title: 'SINGHEALTH POLYCLINICS',
+  location_text: '1 TAMPINES STREET 41\nTAMPINES POLYCLINIC\nSINGAPORE 529203',
+  location_url: 'http://maps.google.com/maps?f=q&source=s_q&hl=en&q=1.35730996500007,103.945849466',
+  phone: '66436969',
+  fax: '67833132',
+  'Licensee Name': 'SINGHEALTH POLYCLINICS',
+  'Licence Period': '26/06/2022to 25/06/2027 [ 5 Years ]',
+  'HCI Code': '9403129',
+  UEN: '52928775K',
+  info: 'Tel: 66436969 Licensee Name: SINGHEALTH POLYCLINICS\n' +
+    'Fax: 67833132 Licence Period: 26/06/2022to 25/06/2027 [ 5 Years ]\n' +
+    '  HCI Code: 9403129\n' +
+    '  UEN: 52928775K',
+  doctor_name: 'Koot David',
+  qualifications: 'MBBS (National University of Singapore, Singapore) 2002',
+  speciality: 'MBBS (National University of Singapore, Singapore) 2002',
+  doctor_info: 'Name Qualifications Registered Specialty / Family Physician\n' +
+    'Koot David\n' +
+    'MBBS (National University of Singapore, Singapore) 2002\n' +
+    'Family Physician',
+  'detail services': 'General Medical'
+}
+{
+  url: 'https://www.hcidirectory.gov.sg/hcidirectory/clinic.do?task=view&toBack=search&pkId=48135',
+  title: '1 ALJUNIED MEDICAL',
+  location_text: '389 UPPER ALJUNIED ROAD\nMACPHERSON GARDEN ESTATE\nSINGAPORE 367874',
+  location_url: 'http://maps.google.com/maps?f=q&source=s_q&hl=en&q=1.33317933400002,103.878829908',
+  phone: "Couldn't get phone",
+  fax: '62861923',
+  'Licensee Name': '1 ALJUNIED MEDICAL PTE. LTD.',
+  'Licence Period': '29/05/2022to 28/05/2024 [ 2 Years ( 2A ) ]',
+  'HCI Code': '22M0214',
+  UEN: '202215819D',
+  info: 'Licensee Name: 1 ALJUNIED MEDICAL PTE. LTD.\n' +
+    'Fax: 62861923 Licence Period: 29/05/2022to 28/05/2024 [ 2 Years ( 2A ) ]\n' +
+    '  HCI Code: 22M0214\n' +
+    '  UEN: 202215819D',
+  doctor_name: 'Zhang Hao Tian',
+  qualifications: 'MBBS (National University of Singapore, Singapore) 2012',
+  speciality: 'MBBS (National University of Singapore, Singapore) 2012',
+  doctor_info: 'Name Qualifications Registered Specialty / Family Physician\n' +
+    'Zhang Hao Tian\n' +
+    'MBBS (National University of Singapore, Singapore) 2012',
+  'detail services': 'General Medical'
+}

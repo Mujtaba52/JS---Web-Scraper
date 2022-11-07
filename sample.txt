@@ -1,0 +1,20 @@
+{
+    "1": {
+    "url": "https://www.hcidirectory.gov.sg/hcidirectory/clinic.do?task=view&toBack=search&pkId=37970",
+    "title": "ANDREA'S DIGESTIVE, COLON, LIVER AND GALLBLADDER CLINIC PTE LTD\n",
+    "location_text": "101 IRRAWADDY ROAD\nROYAL SQUARE AT NOVENA\n#21-11/12 SINGAPORE 329565",
+    "location_url": "http://maps.google.com/maps?f=q&source=s_q&hl=en&q=1.32057156500002,103.843219261",
+    "phone": "68362776",
+      "fax": "62642839",
+      "Licensee Name": "ANDREA'S DIGESTIVE, COLON, LIVER AND GALLBLADDER CLINIC PTE. LTD.",
+      "Licence Period": "25/10/2018to 24/10/2023 [ 5 Years ]",
+      "HCI Code": "9405533",
+      "UEN": "201002542C",
+      "info": "txt",
+      "doctor_name": "Andrea Rajnakova",
+      "qualifications": "MD (Apothecaries Hall of Dublin, Ireland) 1992\nPhD (National University of Singapore, Singapore) 2000\nM Med (Int Med) (National University of Singapore, Singapore) 2001\nMRCP (UK) (Royal College of Physicians, United Kingdom) 2002",
+      "speciality": "Gastroenterology",
+      "doctor_info": "txt",
+      "detail services": "txt"
+  }
+}

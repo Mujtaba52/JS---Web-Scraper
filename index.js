@@ -14,7 +14,6 @@ async function main() {
   );
 
   const title = await driver.getTitle();
-  console.log("Title is: ", title);
 
   await driver
   .findElement(

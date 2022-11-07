@@ -1,4 +1,3 @@
-Title is:  HCI | Healthcare Institutions Directory
 https://www.hcidirectory.gov.sg/hcidirectory/clinic.do?task=view&toBack=search&pkId=47807
 https://www.hcidirectory.gov.sg/hcidirectory/clinic.do?task=view&toBack=search&pkId=46758
 https://www.hcidirectory.gov.sg/hcidirectory/clinic.do?task=view&toBack=search&pkId=47364
